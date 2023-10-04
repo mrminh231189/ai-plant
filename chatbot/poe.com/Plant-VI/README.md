@@ -15,7 +15,7 @@
 - Tìm hiểu kiến thức cơ bản về giống cây trồng, sinh thái học cây và bảo vệ môi trường.
 
 ### Lưu ý
-- Mỗi thread (+ New Chat) nên hỏi xung quanh 1 cây nhất định sẽ giúp Bot trả lời tốt nhất.
+- Mỗi thread (`+ New Chat`) nên hỏi xung quanh 1 cây nhất định sẽ giúp Bot trả lời tốt nhất.
 - Đặt câu hỏi đầy đủ các ý, tránh Bot hiểu lầm mà trả lời sai.
 - Bot chỉ trả lời các câu hỏi liên quan đến chủ đề thực vật, thiên nhiên.
 - Bot chỉ trả lời bằng tiếng Việt, không hỗ trợ trả lời bằng các ngôn ngữ khác.
