@@ -2,6 +2,7 @@
 
 - Vào đường dẫn: https://poe.com/Plant-VI 
 - Đăng ký / Đăng nhập tài khoản (**FREE**)
+- Nhấn vào icon kế bên nút `+ New Chat` để thêm vào danh sách Bot của bạn.
 - Hỏi - Đáp với Bot
 
 ## Các dạng câu hỏi
