@@ -6,4 +6,7 @@ Support only Vietnamese
 https://poe.com/Plant-VI 
 
 # Feedback
-For any feedback or suggestions, please post them in the Issues section. I'll work together with everyone to respond as soon as possible.
+Please post any feedback, suggestions, or edits in the Issues section or reach out to us via Telegram or Email. We will work together with everyone to respond as quickly as possible.
+
+Telegram: @haphanminh
+Email: mrminh231189@gmail.com
