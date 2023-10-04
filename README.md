@@ -4,7 +4,7 @@ The AI project aims to provide people with additional knowledge about plants, he
 ## Chatbot
 
 **Poe.com**
-- Support only Vietnamese: https://poe.com/Plant-VI 
+- Support only Vietnamese: https://poe.com/Plant-VI (uses Claude-instant)
 
 ## Social
 Let's share it with everyone to collectively build a community. We are grateful for your participation and support. Thank you!
