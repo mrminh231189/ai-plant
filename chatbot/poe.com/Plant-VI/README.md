@@ -1,7 +1,7 @@
 # Cách sử dụng
 
 - Vào đường dẫn: https://poe.com/Plant-VI 
-- Đăng ký / Đăng nhập tài khoản (FREE)
+- Đăng ký / Đăng nhập tài khoản (**FREE**)
 - Hỏi - Đáp với Bot
 
 ## Các dạng câu hỏi
