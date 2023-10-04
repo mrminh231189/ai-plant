@@ -20,11 +20,12 @@
 - Bot chỉ trả lời các câu hỏi liên quan đến chủ đề thực vật, thiên nhiên.
 - Bot chỉ trả lời bằng tiếng Việt, không hỗ trợ trả lời bằng các ngôn ngữ khác.
 
-### Ví dụ
-#### Cây Cóc
+## Ví dụ
 
-```bash
-Cây cóc - Euphorbia tirucalli
+#### Hỏi: Cây Cóc
+Đáp
+
+***Cây cóc - Euphorbia tirucalli***
 
 Cây cóc, có tên khoa học là Euphorbia tirucalli, là loài cây thuộc họ Cóc. Cây có thân mọc thẳng đứng, dạng trụ, có gai, cao từ 1-4m. Lá cây mọc so le, hình trái xoan hoặc hình trứng, mép lá có răng cưa, màu xanh lam sáng.
 
@@ -35,20 +36,16 @@ Cây cóc có thể sinh trưởng và ra hoa quanh năm. Khoảng 3-6 tháng sa
 Về mặt y học, nhựa cây cóc chứa chất độc nên không dùng làm thuốc, nhưng người ta đã chiết xuất thành công một số hợp chất có tác dụng chống ung thư và kháng khuẩn từ loài cây này.
 
 Bệnh thường gặp ở cây cóc là sâu bệnh hại, có thể dùng thuốc trừ sâu có đăng ký để phòng trừ kịp thời.
-```
 
-#### Phân bón dinh dưỡng nào tốt nhất để giúp cây cóc phát triển khỏe mạnh?
+#### Hỏi: Phân bón dinh dưỡng nào tốt nhất để giúp cây cóc phát triển khỏe mạnh?
+Đáp
 
-```bash
 Để cây cóc phát triển khỏe mạnh, tôi khuyên nên sử dụng phân bón hữu cơ có chứa nhiều chất dinh dưỡng sau:
 
-Phân chuồng: Là loại phân bón vô cơ tự nhiên, giàu nitơ và Kali giúp thúc đẩy sự phát triển của cây. Nên trộn phân chuồng với đất trước khi trồng, bón khoảng 200-300g/cây/lần vài tháng/lần.
-
-Phân phốt pho: Giàu phốtpho chủ yếu làm tăng khả năng chịu hạn, hấp thụ dinh dưỡng của cây. Bón khoảng 50-100g/cây/lần khi cây cao 20-30cm và sau mỗi 6 tháng.
-
-Bột nhang: Giàu chất hữu cơ kích thích sự phát triển của hệ rễ. Bón 50-100g/cây/đợt khi trồng giống và mỗi 3-6 tháng/lần.
-
-Phân bón hữu cơ tổng hợp NPK: Cung cấp nhiều chất dinh dưỡng cân bằng, bón 100-200g/cây/lần cách nhau 2-3 tháng cho kết quả tốt nhất.
+- Phân chuồng: Là loại phân bón vô cơ tự nhiên, giàu nitơ và Kali giúp thúc đẩy sự phát triển của cây. Nên trộn phân chuồng với đất trước khi trồng, bón khoảng 200-300g/cây/lần vài tháng/lần.
+- Phân phốt pho: Giàu phốtpho chủ yếu làm tăng khả năng chịu hạn, hấp thụ dinh dưỡng của cây. Bón khoảng 50-100g/cây/lần khi cây cao 20-30cm và sau mỗi 6 tháng.
+- Bột nhang: Giàu chất hữu cơ kích thích sự phát triển của hệ rễ. Bón 50-100g/cây/đợt khi trồng giống và mỗi 3-6 tháng/lần.
+- Phân bón hữu cơ tổng hợp NPK: Cung cấp nhiều chất dinh dưỡng cân bằng, bón 100-200g/cây/lần cách nhau 2-3 tháng cho kết quả tốt nhất.
 
 Hy vọng với những gợi ý trên, bạn sẽ chọn được loại phân phù hợp để nuôi dưỡng sức khỏe cho cây cóc. Hãy liên hệ nếu cần hướng dẫn chi tiết hơn.
-```
+
