@@ -14,6 +14,10 @@
 - Thắc mắc về quản lý, bảo tồn và phát triển các loài cây quý, cây có nguy cơ tuyệt chủng.
 - Tìm hiểu kiến thức cơ bản về giống cây trồng, sinh thái học cây và bảo vệ môi trường.
 
+## Tips
+
+- Về liều lượng bạn nên khai báo cây trồng ở đâu, trạng thái thế nào, trồng bao lâu thì Bot sẽ trả lời tốt hơn.
+
 ### Lưu ý
 - Mỗi thread (`+ New Chat`) nên hỏi xung quanh 1 cây nhất định sẽ giúp Bot trả lời tốt nhất.
 - Đặt câu hỏi đầy đủ các ý, tránh Bot hiểu lầm mà trả lời sai.
